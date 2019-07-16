@@ -1,0 +1,77 @@
+---
+layout: post
+title: Current Lit (XXXX) 
+author: 
+---
+
+
+### **Context:** 
+### 
+
+
+---
+
+
+### **Ultimate Question:** 
+### 
+---
+
+
+### **Proximate Goal:** 
+### 
+---
+
+
+### **Model:** 
+---
+
+### **Methods**
+### 1. 
+---
+
+### **Results**
+
+![](/assets/xxx.PNG)
+
+### 
+---
+
+### **Figure 1**
+### **A:** 
+
+![figure1](/assets/xxx.PNG)
+---
+
+---
+### **Figure 2**
+### **A:** 
+
+![figure2](/assets/xxx.PNG)
+---
+
+---
+### **Figure 3**
+### **A:** 
+
+![figure3](/assets/xxx.PNG)
+---
+
+---
+### **Figure 4**
+### **A:** 
+
+![figure4](/assets/2019Bing_f4.PNG)
+---
+
+---
+### **Figure 5**
+### **A:** 
+
+![figure5](/assets/xxx.PNG)
+---
+
+
+---
+### **Discussion**
+### 
+---
